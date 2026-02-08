@@ -1,0 +1,15 @@
+MEDMAP: Bridging Medical Deserts with Agentic AI
+
+
+Track: DataBricks sponsored | Team: Cempasuchil (Milena Fernanda Rivera Hernandez & Valentina Ayelen Cruz Mendoza)
+
+
+The "Cempasuchil Auditor/ MedMap App" 
+
+Distinguished judges,
+Healthcare is a human right, yet for millions all around the world, it remains a geographic lottery. The Virtue Foundation sits on mountains of facility data, but it is often messy, unstructured, and unauditable. We created Cempasuchil or MedMap the first AI Infrastructure Auditor built on Databricks, to turn this data into a weapon against medical deserts.
+Technically, MedMap is more than a map; it is a ReAct Agent architecture. We’ve utilized Llama 3.3 to perform real-time reasoning over SQL-queried facility registries. When an auditor asks a natural language question, our agent doesn’t just search—it audits. It cross-references specialties with capacity and equipment to detect 'Suspicious Claims'—like a clinic claiming surgical expertise while reporting zero beds.
+But the 'heart' of our audit is our proprietary Desert Score. This is not just a marker; it is a weighted index of Functional Preparedness. Our agent calculates this score by cross-referencing three critical pillars: physical capacity, specialty density, and equipment readiness. The "magic" happens in the audit: if a facility claims high-level surgical expertise but reports zero beds or no imaging tools, our agent identifies an 'Illogical Correlation.' The score drops, and the map flags it as a 'Shadow Desert'—a facility that exists on paper but fails in practice.
+By visualizing these red zones, we aren't just showing where hospitals are; we are exposing where infrastructure has failed and where fraud is hiding, but most importantly: where lives are at risk. With MedMap, we are moving the Virtue Foundation from reactive aid to predictive, data-driven equity.
+We have the data. We have the Agent. Now, we have the map to bridge the gap.
+Thank you.
