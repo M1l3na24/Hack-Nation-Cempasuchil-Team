@@ -9,4 +9,5 @@ Note: Everything in this repository is intended to work and be deploy in databri
 TEAM:
 
 Valentina Ayelen Cruz Mendoza
+
 Milena Fernanda Rivera Hernández
